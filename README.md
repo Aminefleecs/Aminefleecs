@@ -1,3 +1,4 @@
-<p align="center">
-  <img src="./profile.svg" alt="Amine.Dev — ASCII avatar" width="100%">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-dark.svg">
+  <img src="./profile.svg" alt="Amine El Chaouch" width="100%">
+</picture>
